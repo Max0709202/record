@@ -60,7 +60,7 @@ Excited to dive into the code and make this app even cooler? To get started, fol
 1. **Clone the Repository:** Fork the Record repository and clone it to your local machine using Git.
 
    ```bash
-   git clone https://github.com/addyosmani/recorder.git
+   git clone https://github.com/Max0709202/record.git
    ```
 
 2. **Navigate to the Directory:** Move into the Record project directory.
